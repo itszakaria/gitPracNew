@@ -1,6 +1,10 @@
-<<<<<<< HEAD
-This is for featurebranchworkflow on qa2
-=======
+
+
+
+
 This is for featurebranchworkflow on git qaa
 
->>>>>>> commit by qa1
+
+
+This is for featurebranchworkflow on qa1
+
