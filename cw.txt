@@ -1,5 +1,2 @@
+this is edited by git ui
 
-this is edited by QAA
-
-this is edited by QAB
-dited by qaB
